@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>Moodle Mobile</name>
+    <name>Interchange</name>
 
     <description>
-        Moodle Mobile official app
+        Interchange Moodle Mobile app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="https://moodle20.wodongatafe.edu.au/" email="learninginnovation@wodongatafe.edu.au">
+        Interchange Incorporated powered by Wodonga TAFE
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
